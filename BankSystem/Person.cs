@@ -9,7 +9,7 @@ namespace BankSystem
         public int Age {get; set; }
         public int Money { get; set; } = 0;
         public int IdBankAccount { get; set; }
-        public static int RN = 0;
+        private static int RN = 0;
         public List<StocksAndBonds.InfoStocks> StonksInventory = new List<StocksAndBonds.InfoStocks>();
         
         public Person()

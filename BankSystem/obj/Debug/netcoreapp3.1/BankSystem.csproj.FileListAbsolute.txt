@@ -11,3 +11,16 @@ E:\REPOS\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.CoreCom
 E:\REPOS\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.dll
 E:\REPOS\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.pdb
 E:\REPOS\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.genruntimeconfig.cache
+E:\REPOS\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.exe
+E:\REPOS\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.deps.json
+E:\REPOS\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.json
+E:\REPOS\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.dev.json
+E:\REPOS\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.dll
+E:\REPOS\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.pdb
+E:\REPOS\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csprojAssemblyReference.cache
+E:\REPOS\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfoInputs.cache
+E:\REPOS\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfo.cs
+E:\REPOS\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.CoreCompileInputs.cache
+E:\REPOS\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.dll
+E:\REPOS\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.pdb
+E:\REPOS\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.genruntimeconfig.cache

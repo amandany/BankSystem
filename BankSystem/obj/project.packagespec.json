@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\REPOS\\BankSystem\\BankSystem\\BankSystem.csproj",
+    "projectUniqueName": "E:\\REPOS\\BankSystem\\BankSystem\\BankSystem\\BankSystem.csproj",
     "projectName": "BankSystem",
-    "projectPath": "E:\\REPOS\\BankSystem\\BankSystem\\BankSystem.csproj",
-    "outputPath": "E:\\REPOS\\BankSystem\\BankSystem\\obj\\",
+    "projectPath": "E:\\REPOS\\BankSystem\\BankSystem\\BankSystem\\BankSystem.csproj",
+    "outputPath": "E:\\REPOS\\BankSystem\\BankSystem\\BankSystem\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Microsoft\\Xamarin\\NuGet"
