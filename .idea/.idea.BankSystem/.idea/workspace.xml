@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85964713-c731-4910-a1c2-7101414437dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BankSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BankSystem/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BankSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BankSystem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/Stocks and bonds.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/Stocks and bonds.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/obj/BankSystem.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/BankSystem.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/obj/BankSystem.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/BankSystem.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankSystem/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/project.packagespec.json" afterDir="false" />
-    </list>
+    <list default="true" id="85964713-c731-4910-a1c2-7101414437dd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +94,7 @@
       <workItem from="1602518456106" duration="666000" />
       <workItem from="1602521134778" duration="12697000" />
       <workItem from="1602538214692" duration="664000" />
-      <workItem from="1602622631985" duration="3418000" />
+      <workItem from="1602622631985" duration="3763000" />
     </task>
     <servers />
   </component>
