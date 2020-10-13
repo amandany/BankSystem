@@ -13,4 +13,6 @@ _Can do:_
 
 :six: Show personal list of Stocks And Bonds.
 
-:seven: Show all Users in Bank System.
+:seven: Sold personal Stocks And Bonds.
+
+:eight: Show all Users in Bank System.
