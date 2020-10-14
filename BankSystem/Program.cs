@@ -24,30 +24,25 @@ namespace BankSystem
                     if ( com == 1)
                     {
                         bank.AddUser();
-                        Console.WriteLine("Personal bank account was created!");
                     }
         
                     if (com == 2)
                     {
                         bank.TopUp();
-                        Console.WriteLine("Your balance has been replenished");
                     }
                     if (com == 3)
                     {
                         bank.DeleteUser();
-                        Console.WriteLine("Your account was deleted");
-                    
+
                     }
                     if (com == 4)
                     {
                         bank.TransferMoney();
-                        Console.WriteLine("Money was transferred");
                     }
     
                     if (com == 5)
                     {
                         bank.BuyStocks();
-                        Console.WriteLine("You successfully bought stocks");
                     }
     
                     if (com == 6)
@@ -60,7 +55,6 @@ namespace BankSystem
                     if (com == 7)
                     {
                         bank.SoldStocks();
-                        Console.WriteLine("You successfully sold stocks");
                     }
                     
                     if (com == 8)

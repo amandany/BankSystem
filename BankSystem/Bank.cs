@@ -28,6 +28,7 @@ namespace BankSystem
             Console.WriteLine("Write your Age");
             int agePerson = Convert.ToInt32(Console.ReadLine());
             people.Add(new Person(namePerson, passwordPerson, agePerson));
+            Console.WriteLine("Personal bank account was created!");
         }
 
         public void TopUp()
@@ -40,6 +41,7 @@ namespace BankSystem
             if (people.Exists(x => x.IdBankAccount == reqId))
             {
                 people[idUser].Money = reqForMoney + people[idUser].Money;
+                Console.WriteLine("Your balance has been replenished");
             }
             else
             {
@@ -57,7 +59,7 @@ namespace BankSystem
             {
                 Console.WriteLine("removing {0}", idUser.IdBankAccount);
                 people.RemoveAt(idUser.IdBankAccount);
-                Console.WriteLine("END REMOVE");
+                Console.WriteLine("Your account was deleted");
             }
             else
             {
@@ -132,6 +134,7 @@ namespace BankSystem
                             {
                                 idUser.Money = idUser.Money - temp.Stock[reqOfBuyString].Current;
                                 idUser.StonksInventory.Add(temp.Stock[reqOfBuyString]);
+                                Console.WriteLine("You successfully bought stocks");
                             }
                             else
                             {
@@ -181,6 +184,7 @@ namespace BankSystem
             StocksAndBonds.InfoStocks soldIt = idUser.StonksInventory.Find(x => x.Id == soldId);
             idUser.StonksInventory.Remove(soldIt);
             ShowPersonalStocks(id);
+            Console.WriteLine("You successfully sold stocks");
         }
 
         public void ShowAllUsers()
