@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85964713-c731-4910-a1c2-7101414437dd" name="Default Changelist" comment="" />
+    <list default="true" id="85964713-c731-4910-a1c2-7101414437dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BankSystem/Bank.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BankSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BankSystem/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BankSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BankSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankSystem/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankSystem/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankSystem/Stocks and bonds.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/Stocks and bonds.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/bin/Debug/netcoreapp3.1/BankSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem/obj/Debug/netcoreapp3.1/BankSystem.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +33,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/53287E0C-18C4-4762-89D4-32CECAAF5E42/4/Console.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BankSystem/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BankSystem/obj/BankSystem.csproj.nuget.dgspec.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BankSystem/Bank.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BankSystem/Person.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BankSystem/Stocks and bonds.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BankSystem/obj/project.assets.json" root0="FORCE_HIGHLIGHTING" />
@@ -29,9 +42,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/BankSystem/Program.cs" />
+        <option value="$PROJECT_DIR$/BankSystem/Bank.cs" />
         <option value="$PROJECT_DIR$/BankSystem/Stocks and bonds.cs" />
         <option value="$PROJECT_DIR$/BankSystem/Person.cs" />
-        <option value="$PROJECT_DIR$/BankSystem/Program.cs" />
       </list>
     </option>
   </component>
@@ -94,7 +108,8 @@
       <workItem from="1602518456106" duration="666000" />
       <workItem from="1602521134778" duration="12697000" />
       <workItem from="1602538214692" duration="664000" />
-      <workItem from="1602622631985" duration="3763000" />
+      <workItem from="1602622631985" duration="6224000" />
+      <workItem from="1602686811378" duration="1715000" />
     </task>
     <servers />
   </component>
@@ -108,29 +123,31 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="422" key="GridCell.Tab.0.bottom" timestamp="1602625964358">
+    <state width="1493" height="410" key="GridCell.Tab.0.bottom" timestamp="1602687970383">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="422" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602625964358" />
-    <state width="1493" height="422" key="GridCell.Tab.0.center" timestamp="1602625964358">
+    <state width="1493" height="410" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602687970383" />
+    <state width="1493" height="410" key="GridCell.Tab.0.center" timestamp="1602687970383">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="422" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602625964358" />
-    <state width="1493" height="422" key="GridCell.Tab.0.left" timestamp="1602625964358">
+    <state width="1493" height="410" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602687970383" />
+    <state width="1493" height="410" key="GridCell.Tab.0.left" timestamp="1602687970383">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="422" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602625964358" />
-    <state width="1493" height="422" key="GridCell.Tab.0.right" timestamp="1602625964358">
+    <state width="1493" height="410" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602687970383" />
+    <state width="1493" height="410" key="GridCell.Tab.0.right" timestamp="1602687970383">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="422" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602625964358" />
+    <state width="1493" height="410" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602687970383" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1602437880251">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -195,10 +212,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1602437880251" />
-    <state x="555" y="54" key="SettingsEditor" timestamp="1602624012232">
+    <state x="555" y="54" key="SettingsEditor" timestamp="1602628489757">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602624012232" />
+    <state x="555" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602628489757" />
     <state x="554" y="117" key="VCS.ChangeListViewerDialog" timestamp="1602623679006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
